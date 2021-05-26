@@ -22,7 +22,7 @@ In this course we're going to be using a tool called "Github Desktop", a user fr
 Open a browser:
 
 1. Navigate to https://github.com
-2. Enter a unique username, your email address and a memorable password.
+2. Enter a unique username, your email address and a memorable password. (You'll need these to sign in with Github Desktop)
 3. Verify that you're not a robot
 4. Click "Create Account"
 5. Your Github account setup is now complete.
@@ -97,7 +97,7 @@ You've now created a repository, cloned it down, made a change, committed that c
   <dd>Means copying a repository to your local system to let you change without making changes to the safe repository on Github.</dd>
 
   <dt>Commit</dt>
-  <dd>Saving the changes that have been made, think of it as a stage of changes. It will look for anything that has been changed in the repository, package it up for you, ready to be pushed up to Github./dd>
+  <dd>Saving the changes that have been made, think of it as a stage of changes. It will look for anything that has been changed in the repository, package it up for you, ready to be pushed up to Github.</dd>
 
   <dt>Push</dt>
   <dd>The process of adding your commits to Github. Git will look for any commits that haven't already been pushed, then push up what remains.</dd>
@@ -106,9 +106,8 @@ You've now created a repository, cloned it down, made a change, committed that c
   <dd>Useful when working with others on the same repository. The pull function lets you update your local copy of the repository, if there are any changes to the copy on Github.</dd>
 
   <dt>Branch</dt>
-  <dd>Beyond the scope of this tutorial, branches allow for you to work on your code and push it to github, without making changes to any code that you know is working.
-
-When you made your repository, you might've seen Github mention something called "Main Branch". This name was changed recently, so if you see references to "Master Branch", know that it means the "Main Branch".  
+  <dd>Beyond the scope of this tutorial, branches allow for you to work on your code and push it to github, without making changes to any code that you know is working. 
+  When you made your repository, you might've seen Github mention something called "Main Branch". This name was changed recently, so if you see references to "Master Branch", know that it means the "Main Branch".  
  You can make as many branches as you want, make sure the code works, then merge it into the Main Branch.</dd>
 
   <dt>Pull Request</dt>
