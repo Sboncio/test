@@ -7,13 +7,11 @@
 Git is an open-source version control system. Basically a way of easily saving progress on a project and tracking what's been done.
 Git is a command-line tool, favoured by the majority of developers to keep track of their projects due to its many advantages.
 
-![Git Logo](images/git-logo.png)
 
 ### Github
 
 Now that you've learnt what git is, time to learn what it all revolves around, Github.
-Github is a central repository to store your projects and have several other developers collaborate on it together. Simply, Github will look after our code, then let other people copy it down without changing the code we've saved ourselves (unless you want to).
-![Github Logo](images/github-logo.png)
+Github is a central repository to store your projects and have several other developers collaborate on it together. Simply, Github will look after our code, then let other people copy it down without changing the code we've saved ourselves (unless you want to).  
 In this course we're going to be using a tool called "Github Desktop", a user friendly program that will let you use git and github without needing to touch the command line.
 
 ## Install Tutorial
