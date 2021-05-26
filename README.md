@@ -7,11 +7,13 @@
 Git is an open-source version control system. Basically a way of easily saving progress on a project and tracking what's been done.
 Git is a command-line tool, favoured by the majority of developers to keep track of their projects due to its many advantages.
 
+![Git Logo](images/git-logo.png)
+
 ### Github
 
 Now that you've learnt what git is, time to learn what it all revolves around, Github.
 Github is a central repository to store your projects and have several other developers collaborate on it together. Simply, Github will look after our code, then let other people copy it down without changing the code we've saved ourselves (unless you want to).
-
+![Github Logo](images/github-logo.png)
 In this course we're going to be using a tool called "Github Desktop", a user friendly program that will let you use git and github without needing to touch the command line.
 
 ## Install Tutorial
@@ -68,4 +70,10 @@ The goal of this tutorial is to teach you:
    Everything you change here will only be changed on your local copy, until you push it back up.
 7. Open the only file in the folder, called README.md. This file is typically used to describe the project, any instructions to make it run, etc. In this tutorial we're just going to change it a little.
 8. In README.md, delete everything (should only be one line), and write your name inside. Then make sure to save it.
-9. Once the README.md file has been saved
+9. Once the README.md file has been saved, once again go back to Github Desktop and you'll be shown what's been removed and added to the file. Make sure you're happy, because nothing has been saved on Github yet.
+10. When you're happy, go to the bottom left of Github Desktop and click on the text bar that says "Update README.md". Type in "Wrote my name".  
+    This line is a quick description of the commit, or a summary of what's been changed.  
+    Click the blue "Commit to Main" button, then the "Push Origin" button on the top of the program.
+11. Enter your Username and Password to sign in, then submit them. Your changes have now been pushed to Github. Go to Github in your browser and refresh the page. The title on the bottom of your page should have now changed to your name.
+
+You've now created a repository, cloned it down, made a change, committed that change and pushed it back up to Github.
