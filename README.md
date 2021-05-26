@@ -12,7 +12,7 @@ Git is currently used by many companies, including:
 - Facebook
 - Google
 - Twitter
-- Gnu/Linux
+- GNU/Linux
 
 ### Github
 
