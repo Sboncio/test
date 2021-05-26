@@ -1,4 +1,4 @@
-# GitHub Install & Tutorial
+# Git & Github Install & Tutorial
 
 ## What is Git and GitHub?
 
