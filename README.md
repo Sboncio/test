@@ -119,9 +119,12 @@ You've now created a repository, cloned it down, made a change, committed that c
 
   <dt>Pull Request</dt>
   <dd>A pull request is when we want to pull the code of one branch into another.</dd>
-</dl>
 
 ![Git Branches](git-branches.png)
+
+  <dt>RollBack</dt>
+  <dd>Made a mistake and accidentally pushed it to Github? No problem, you can simply rollback your code to a state where</dd>
+</dl>
 
 ---
 
