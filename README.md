@@ -53,10 +53,10 @@ Open a browser:
 
 The goal of this tutorial is to teach you:
 
-- how to make your first repository (sometimes refered to as a repo),
-- clone it to your local computer,
-- make a change,
-- push it back up to github.
+- How to make your first repository (sometimes refered to as a repo)
+- Clone it to your local computer
+- Make a change,
+- Push it back up to github.
 
 Now that you have Github Desktop installed, know what Git and Github are, and what we're going to do, let's get started:
 
