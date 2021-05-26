@@ -5,7 +5,14 @@
 ### Git
 
 Git is an open-source version control system. Basically a way of easily saving progress on a project and tracking what's been done.
-Git is a command-line tool, favoured by the majority of developers to keep track of their projects due to its many advantages.
+Git is a command-line tool, favoured by the majority of developers to keep track of their projects due to its many advantages.  
+Git is currently used by many companies, including:
+
+- Netflix
+- Facebook
+- Google
+- Twitter
+- Gnu/Linux
 
 ### Github
 
