@@ -13,6 +13,8 @@ Now that you've learnt what git is, time to learn what it all revolves around, G
 Github is a central repository to store your projects and have several other developers collaborate on it together. Simply, Github will look after our code, then let other people copy it down without changing the code we've saved ourselves (unless you want to).  
 In this course we're going to be using a tool called "Github Desktop", a user friendly program that will let you use git and github without needing to touch the command line.
 
+---
+
 ## Install Tutorial
 
 ### Sign up to Github
@@ -45,6 +47,8 @@ Open a browser:
 4. After the file has been unzipped, double-click GitHub Desktop
 5. Once the installation completes, GitHub Desktop will launch.
 
+---
+
 ## First Repository
 
 The goal of this tutorial is to teach you:
@@ -53,6 +57,8 @@ The goal of this tutorial is to teach you:
 - clone it to your local computer,
 - make a change,
 - push it back up to github.
+
+Now that you have Github Desktop installed, know what Git and Github are, and what we're going to do, let's get started:
 
 1. Once logged in, click the green "New" button on the left side of the screen.
 2. Give a name to this repository and be sure to check the box titled "Add a README file".
@@ -75,22 +81,38 @@ The goal of this tutorial is to teach you:
 
 You've now created a repository, cloned it down, made a change, committed that change and pushed it back up to Github.
 
+---
+
 ## Git Terms
 
-- Repository
-  - A file holding all of your code. Everyone can have a local copy on their own systems, with one stored safely on Github, that only you and anyone you choose can change.
-- Clone
-  - Means copying a repository to your local system to let you change without making changes to the safe repository on Github.
-- Commit
-  - Saving the changes that have been made, think of it as a stage of changes. It will look for anything that has been changed in the repository, package it up for you, ready to be pushed up to Github.
-- Push
-  - The process of adding your commits to Github. Git will look for any commits that haven't already been pushed, then push up what remains.
-- Pull
-  - Useful when working with others on the same repository. The pull function lets you update your local copy of the repository, if there are any changes to the copy on Github.
-- Branch
-  - Beyond the scope of this tutorial, branches allow for you to work on your code and push it to github, without making changes to any code that you know is working.
-  - When you made your repository, you might've seen Github mention something called "Main Branch". This name was changed recently, so if you see references to "Master Branch", know that it means the "Main Branch".
-  - You can make as many branches as you want, make sure the code works, then merge it into the Main Branch.
-    ![Git Branches](git-branches.png)
-- Pull Request
-  - A pull request is when we want to pull the code of one branch into another.
+<dl>
+  <dt> Repository</dt>
+  <dd>A file holding all of your code. Everyone can have a local copy on their own systems, with one stored safely on Github, that only you and anyone you choose can change.</dd>
+
+  <dt>Clone</dt>
+  <dd>Means copying a repository to your local system to let you change without making changes to the safe repository on Github.</dd>
+
+  <dt>Commit</dt>
+  <dd>Saving the changes that have been made, think of it as a stage of changes. It will look for anything that has been changed in the repository, package it up for you, ready to be pushed up to Github./dd>
+
+  <dt>Push</dt>
+  <dd>The process of adding your commits to Github. Git will look for any commits that haven't already been pushed, then push up what remains.</dd>
+
+  <dt>Pull</dt>
+  <dd>Useful when working with others on the same repository. The pull function lets you update your local copy of the repository, if there are any changes to the copy on Github.</dd>
+
+  <dt>Branch</dt>
+  <dd>Beyond the scope of this tutorial, branches allow for you to work on your code and push it to github, without making changes to any code that you know is working.
+
+When you made your repository, you might've seen Github mention something called "Main Branch". This name was changed recently, so if you see references to "Master Branch", know that it means the "Main Branch".  
+ You can make as many branches as you want, make sure the code works, then merge it into the Main Branch.</dd>
+
+  <dt>Pull Request</dt>
+  <dd>A pull request is when we want to pull the code of one branch into another.</dd>
+</dl>
+
+![Git Branches](git-branches.png)
+
+---
+
+[Click Here for a Git cheatsheet](https://education.github.com/git-cheat-sheet-education.pdf)
