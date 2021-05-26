@@ -7,7 +7,6 @@
 Git is an open-source version control system. Basically a way of easily saving progress on a project and tracking what's been done.
 Git is a command-line tool, favoured by the majority of developers to keep track of their projects due to its many advantages.
 
-
 ### Github
 
 Now that you've learnt what git is, time to learn what it all revolves around, Github.
@@ -75,3 +74,23 @@ The goal of this tutorial is to teach you:
 11. Enter your Username and Password to sign in, then submit them. Your changes have now been pushed to Github. Go to Github in your browser and refresh the page. The title on the bottom of your page should have now changed to your name.
 
 You've now created a repository, cloned it down, made a change, committed that change and pushed it back up to Github.
+
+## Git Terms
+
+- Repository
+  - A file holding all of your code. Everyone can have a local copy on their own systems, with one stored safely on Github, that only you and anyone you choose can change.
+- Clone
+  - Means copying a repository to your local system to let you change without making changes to the safe repository on Github.
+- Commit
+  - Saving the changes that have been made, think of it as a stage of changes. It will look for anything that has been changed in the repository, package it up for you, ready to be pushed up to Github.
+- Push
+  - The process of adding your commits to Github. Git will look for any commits that haven't already been pushed, then push up what remains.
+- Pull
+  - Useful when working with others on the same repository. The pull function lets you update your local copy of the repository, if there are any changes to the copy on Github.
+- Branch
+  - Beyond the scope of this tutorial, branches allow for you to work on your code and push it to github, without making changes to any code that you know is working.
+  - When you made your repository, you might've seen Github mention something called "Main Branch". This name was changed recently, so if you see references to "Master Branch", know that it means the "Main Branch".
+  - You can make as many branches as you want, make sure the code works, then merge it into the Main Branch.
+    ![Git Branches](git-branches.png)
+- Pull Request
+  - A pull request is when we want to pull the code of one branch into another.
