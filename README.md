@@ -47,6 +47,10 @@ Open a browser:
 4. After the file has been unzipped, double-click GitHub Desktop
 5. Once the installation completes, GitHub Desktop will launch.
 
+### GNU/Linux
+
+Currently, Github Desktop doesn't support any GNU/Linux distribution, so you'll be required to use the Git CLI (Command Line Interface).
+
 ---
 
 ## First Repository
